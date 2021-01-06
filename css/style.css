@@ -1,0 +1,73 @@
+#menu-principal body{
+  width: 100%;
+}
+
+#menu-principal{
+  margin-bottom: -1em;
+  padding-bottom: -1em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+.atributos-menu {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-top: 2em;
+  margin-left: 2.3em;
+}
+
+
+.a-background a:hover{
+  background-color: #111;
+}
+
+.lupa-alinhamento{
+  position: absolute;
+}
+
+.lupa{
+  width: 1.3em;
+  margin-left: 2.2em;
+  margin-top: 1.4em;
+}
+
+.icone-menu{
+  margin-left: 10em;
+  width: 15em;
+}
+
+.carousel-item{
+  max-height: 30em;
+}
+
+
+h2{
+  text-align: center;
+}
+
+#menu-principal body{
+  width: 100%;
+}
+
+footer{
+  text-align: center;
+  background-color: #111;
+  color: white;
+}
+
+footer p{
+  margin-bottom: 0%;
+}
